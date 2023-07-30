@@ -45,7 +45,7 @@ var num2 : Int? = 123
 
 
 print(num2)
-print(num2!) // 123이라고 출력됨.
+print(num2!) // 강제추출. 123이라고 출력됨.
 
 num2 = nil
 //print(num!) // Fatal error
@@ -66,7 +66,9 @@ let after = num!
 
 //---------------------------------------------
 
-/* nil이 저장되어 있으면 바인딩에 실패
+/*
+ optional binding
+    nil이 저장되어 있으면 바인딩에 실패
     while문은 다음문장으로 넘기기
     guard문에서는 else 블록이 실행돼. scope가 거기서 끝나.
 */
@@ -76,12 +78,12 @@ var num1 : Int? = 123
 //1️⃣
 if let n = num1 {
     //   🚀 num1 = 456 값을 바꿀 수 없기 때문에 이런 코드도 에러. 바꾸고 싶으면 앞에 let을 var로 바꾸고 사용
-    print(num1)
+    print(n)
 }
     
     //1️⃣-1. 상수의 이름이 같아도 돼. 이럴 때는 뒤의 = num1도 생략할 수 있어. 1-2참고.
     if let num1 = num1 {
-        print(num1)
+        print(num1) // num1은 {}안에서만 사용가능
     }
     
     //1️⃣-2. 상수의 이름이 같아도 돼. 이럴 때는 뒤의 = num1도 생략할 수 있어. 1-2참고.
