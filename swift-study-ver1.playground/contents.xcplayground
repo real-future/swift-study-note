@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='inheritance'/>
+        <page name='control transfer statements'/>
+        <page name='instance method'/>
+        <page name='type casting'/>
+        <page name='collection-array'/>
+        <page name='collection-array2'/>
+        <page name='computed property'/>
+        <page name='continue statement'/>
+        <page name='dictionary'/>
+        <page name='downcasting'/>
+        <page name='enumeration types'/>
+        <page name='for-in loop'/>
+        <page name='functions'/>
+        <page name='guard statement'/>
+        <page name='initializer syntax'/>
+        <page name='optionals'/>
+        <page name='overriding '/>
+        <page name='parameters'/>
+        <page name='range operator'/>
+        <page name='raw values'/>
+        <page name='self &amp; super'/>
+        <page name='stored property'/>
+        <page name='string basics'/>
+        <page name='string editing'/>
+        <page name='strings and characters'/>
+        <page name='structures and classes'/>
+        <page name='string comparison &amp; searching'/>
+        <page name='switch statement'/>
+        <page name='type property'/>
+        <page name='type method'/>
+        <page name='upcasting and downcasting'/>
+        <page name='value types vs reference types'/>
+        <page name='protocol syntax'/>
+        <page name='property requirements'/>
+        <page name='method requirements'/>
+        <page name='initializer requirements'/>
+        <page name='error handling'/>
+        <page name='Untitled Page 2'/>
+        <page name='sungpyonim'/>
+        <page name='Untitled Page'/>
+        <page name='break Statement'/>
+    </pages>
+</playground>
