@@ -38,10 +38,19 @@
         <page name='method requirements'/>
         <page name='initializer requirements'/>
         <page name='error handling'/>
-        <page name='Untitled Page 2'/>
         <page name='sungpyonim'/>
         <page name='Untitled Page'/>
         <page name='break Statement'/>
         <page name='unwrapping'/>
+        <page name='tuple'/>
+        <page name='optional-2'/>
+        <page name='closure'/>
+        <page name='control flow'/>
+        <page name='closure-2'/>
+        <page name='enum'/>
+        <page name='class'/>
+        <page name='extension'/>
+        <page name='Untitled Page 2'/>
+        <page name='protocol'/>
     </pages>
 </playground>
