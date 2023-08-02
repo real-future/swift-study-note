@@ -50,7 +50,8 @@
         <page name='enum'/>
         <page name='class'/>
         <page name='extension'/>
-        <page name='Untitled Page 2'/>
+        <page name='higher order functions'/>
         <page name='protocol'/>
+        <page name='generic'/>
     </pages>
 </playground>
