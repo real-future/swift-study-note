@@ -53,5 +53,6 @@
         <page name='higher order functions'/>
         <page name='protocol'/>
         <page name='generic'/>
+        <page name='array'/>
     </pages>
 </playground>
