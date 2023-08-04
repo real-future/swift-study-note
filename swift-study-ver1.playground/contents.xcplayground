@@ -54,5 +54,6 @@
         <page name='protocol'/>
         <page name='generic'/>
         <page name='array'/>
+        <page name='array -2'/>
     </pages>
 </playground>
