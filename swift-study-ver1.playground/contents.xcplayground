@@ -39,7 +39,7 @@
         <page name='initializer requirements'/>
         <page name='error handling'/>
         <page name='sungpyonim'/>
-        <page name='Untitled Page'/>
+        <page name='do catch'/>
         <page name='break Statement'/>
         <page name='unwrapping'/>
         <page name='tuple'/>
@@ -53,7 +53,6 @@
         <page name='higher order functions'/>
         <page name='protocol'/>
         <page name='generic'/>
-        <page name='array'/>
         <page name='array -2'/>
     </pages>
 </playground>
